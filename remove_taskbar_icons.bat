@@ -24,4 +24,3 @@ if not exist "venv\Scripts\activate.bat" (
 python main.py
 
 endlocal
-@pause
